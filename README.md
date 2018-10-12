@@ -10,3 +10,5 @@ The technology follows prediction, propagation and evacuation as it's 3 importan
   Finally by the help of google maps or other, we'll find the safe places nearby and send that information through radio signals and other information platforms for the people out there.
   
   This way we can save maximum people's life and after the human lives are saved or during the evacuation process, we would be able to safeguard valuable properties. Also this prevents havoc situation.
+  
+  Thankyou.
