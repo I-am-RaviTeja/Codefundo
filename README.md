@@ -1,4 +1,4 @@
-# Codefundo
+# Codefundo++
 Project Idea
 
 The technology follows prediction, propagation and evacuation as it's 3 important stages. These are discussed clearly in order below.
